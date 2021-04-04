@@ -1,6 +1,10 @@
 {
   "version": "1.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ealush/vast.git"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
